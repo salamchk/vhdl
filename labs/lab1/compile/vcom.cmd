@@ -1,0 +1,1 @@
+-w -erf c:/My_Designs/labs/lab1/compile/lab1.erf -d c:/My_Designs/labs/lab1/compile -s c:/My_Designs/labs/library.cfg -j c:/My_Designs/labs/lab1/projlib.cfg -work lab1 -reorder -O3 -e 100 -work lab1 -2002 c:/My_Designs/labs/lab1/src/main.vhd 

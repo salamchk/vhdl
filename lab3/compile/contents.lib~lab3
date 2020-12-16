@@ -1,0 +1,9 @@
+138
+~E 1 "../src/example.vhd" 647 FIFO
+~A 1 "../src/example.vhd" 664 rtl
+~E 1 "../src/example.vhd" 29 Fub1
+~A 1 "../src/example.vhd" 46 example
+~E 1 "../src/example.vhd" 5 komutator
+~A 1 "../src/example.vhd" 25 komutator
+~E 1 "../compile/lab3.vhd" 24 lab3
+~A 1 "../compile/lab3.vhd" 57 lab3

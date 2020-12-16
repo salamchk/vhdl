@@ -1,0 +1,40 @@
+[Project]
+Current Flow=Generic
+VCS=0
+version=4
+Current Config=compile
+
+[Configurations]
+compile=lab3
+
+[Library]
+lab3=.\lab3\lab3.lib
+
+[SpecTracer]
+WindowVisible=0
+
+[$LibMap$]
+lab3=.
+
+[Settings]
+FLOW_TYPE=HDL
+LANGUAGE=VHDL
+REFRESH_FLOW=1
+FLOWTOOLS=NONE
+FAMILY=
+
+[Files]
+/example.vhd=-1
+/lab3.bde=-1
+
+[Files.Data]
+.\src\example.vhd=VHDL Source Code
+.\src\lab3.bde=Block Diagram
+
+[file_out:/lab3.bde]
+/..\compile\lab3.vhd=-1
+
+[HierarchyViewer]
+HierarchyInformation=lab3|lab3|0  
+ShowHide=ShowTopLevel
+Selected=

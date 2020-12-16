@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<XML>
+	<document type="stimulators" version="1">
+		<set name="ASDB Stimulators" active="1">
+			<stimulator>
+				<signal_path value="/lab3/CLK"/>
+				<rawdescription value="CLK:FRM:Override:100.000000;2;1;0;50;1:Clock:1:"/>
+			</stimulator>
+			<stimulator>
+				<signal_path value="/lab3/DATA"/>
+				<rawdescription value="VAL:FRM:Override:000000000:&lt;= 000000000:1:"/>
+			</stimulator>
+			<stimulator>
+				<signal_path value="/lab3/ID0"/>
+				<rawdescription value="VAL:FRM:Override:00000:&lt;= 00000:1:"/>
+			</stimulator>
+			<stimulator>
+				<signal_path value="/lab3/ID1"/>
+				<rawdescription value="VAL:FRM:Override:00001:&lt;= 00001:1:"/>
+			</stimulator>
+			<stimulator>
+				<signal_path value="/lab3/ID10"/>
+				<rawdescription value="VAL:FRM:Override:01010:&lt;= 01010:1:"/>
+			</stimulator>
+			<stimulator>
+				<signal_path value="/lab3/ID11"/>
+				<rawdescription value="VAL:FRM:Override:01011:&lt;= 01011:1:"/>
+			</stimulator>
+			<stimulator>
+				<signal_path value="/lab3/ID12"/>
+				<rawdescription value="VAL:FRM:Override:01100:&lt;= 01100:1:"/>
+			</stimulator>
+			<stimulator>
+				<signal_path value="/lab3/ID13"/>
+				<rawdescription value="VAL:FRM:Override:01101:&lt;= 01101:1:"/>
+			</stimulator>
+			<stimulator>
+				<signal_path value="/lab3/ID14"/>
+				<rawdescription value="VAL:FRM:Override:01110:&lt;= 01110:1:"/>
+			</stimulator>
+			<stimulator>
+				<signal_path value="/lab3/ID15"/>
+				<rawdescription value="VAL:FRM:Override:01111:&lt;= 01111:1:"/>
+			</stimulator>
+			<stimulator>
+				<signal_path value="/lab3/ID16"/>
+				<rawdescription value="VAL:FRM:Override:10000:&lt;= 10000:1:"/>
+			</stimulator>
+			<stimulator>
+				<signal_path value="/lab3/ID17"/>
+				<rawdescription value="VAL:FRM:Override:10001:&lt;= 10001:1:"/>
+			</stimulator>
+			<stimulator>
+				<signal_path value="/lab3/ID18"/>
+				<rawdescription value="VAL:FRM:Override:10010:&lt;= 10010:1:"/>
+			</stimulator>
+			<stimulator>
+				<signal_path value="/lab3/ID19"/>
+				<rawdescription value="VAL:FRM:Override:10011:&lt;= 10011:1:"/>
+			</stimulator>
+			<stimulator>
+				<signal_path value="/lab3/ID2"/>
+				<rawdescription value="VAL:FRM:Override:00010:&lt;= 00010:1:"/>
+			</stimulator>
+			<stimulator>
+				<signal_path value="/lab3/ID20"/>
+				<rawdescription value="VAL:FRM:Override:10100:&lt;= 10100:1:"/>
+			</stimulator>
+			<stimulator>
+				<signal_path value="/lab3/ID21"/>
+				<rawdescription value="VAL:FRM:Override:10101:&lt;= 10101:1:"/>
+			</stimulator>
+			<stimulator>
+				<signal_path value="/lab3/ID22"/>
+				<rawdescription value="VAL:FRM:Override:10110:&lt;= 10110:1:"/>
+			</stimulator>
+			<stimulator>
+				<signal_path value="/lab3/ID23"/>
+				<rawdescription value="VAL:FRM:Override:10111:&lt;= 10111:1:"/>
+			</stimulator>
+			<stimulator>
+				<signal_path value="/lab3/ID24"/>
+				<rawdescription value="VAL:FRM:Override:11000:&lt;= 11000:1:"/>
+			</stimulator>
+			<stimulator>
+				<signal_path value="/lab3/ID3"/>
+				<rawdescription value="VAL:FRM:Override:00011:&lt;= 00011:1:"/>
+			</stimulator>
+			<stimulator>
+				<signal_path value="/lab3/ID4"/>
+				<rawdescription value="VAL:FRM:Override:00100:&lt;= 00100:1:"/>
+			</stimulator>
+			<stimulator>
+				<signal_path value="/lab3/ID5"/>
+				<rawdescription value="VAL:FRM:Override:00101:&lt;= 00101:1:"/>
+			</stimulator>
+			<stimulator>
+				<signal_path value="/lab3/ID6"/>
+				<rawdescription value="VAL:FRM:Override:00110:&lt;= 00110:1:"/>
+			</stimulator>
+			<stimulator>
+				<signal_path value="/lab3/ID7"/>
+				<rawdescription value="VAL:FRM:Override:00111:&lt;= 00111:1:"/>
+			</stimulator>
+			<stimulator>
+				<signal_path value="/lab3/ID8"/>
+				<rawdescription value="VAL:FRM:Override:01000:&lt;= 01000:1:"/>
+			</stimulator>
+			<stimulator>
+				<signal_path value="/lab3/ID9"/>
+				<rawdescription value="VAL:FRM:Override:01001:&lt;= 01001:1:"/>
+			</stimulator>
+		</set>
+	</document>
+</XML>

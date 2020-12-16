@@ -1,0 +1,7 @@
+WARNING DAGGEN_0523: "The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available."
+MESSAGE "File: c:/My_Designs/labs/lab1/src/main.vhd" 
+MESSAGE "Compile Entity "main"" 
+MESSAGE "Compile Architecture "main" of Entity "main"" 
+MESSAGE "Top-level unit(s) detected:" 
+MESSAGE "Entity => main" 
+SUCCESS "Compile success 0 Errors 0 Warnings  Analysis time :  93.0 [ms]" 

@@ -1,0 +1,22 @@
+195
+~E 1 "../compile/OR.vhd" 24 \OR\
+~E 1 "../src/commutator3.vhd" 29 commutator3
+~A 1 "../src/commutator3.vhd" 40 commutator3
+~E 1 "../src/comparator2.vhd" 30 comparator2
+~A 1 "../src/comparator2.vhd" 43 comparator2
+~E 1 "../src/commutator.vhd" 29 comutator
+~A 1 "../src/commutator.vhd" 42 commutator
+~E 1 "../src/Fub1.vhd" 28 Fub1
+~E 1 "../src/commutator.vhd" 29 Fub2
+~A 1 "../src/commutator.vhd" 42 commutator
+~E 1 "../src/comutate.vhd" 27 Fub3
+~E 1 "../src/ORFor2Bit.vhd" 27 Fub4
+~A 1 "../src/ORFor2Bit.vhd" 37 ORFor2Bit
+~E 0 "" 0 Fub5
+~A 0 "" 0 comparator2
+~E 0 "" 0 Fub6
+~A 0 "" 0 commutator3
+~E 1 "../compile/lab2.vhd" 24 lab2
+~A 1 "../compile/lab2.vhd" 32 lab2
+~E 1 "../src/ORFor2Bit.vhd" 27 OR2Bit
+~A 1 "../src/ORFor2Bit.vhd" 37 ORFor2Bit
